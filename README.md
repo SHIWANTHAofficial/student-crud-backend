@@ -10,7 +10,7 @@
 
 ## ✨ Features
 - 📄 **CRUD Operations**: Create, Read, Update, and Delete student data.    
-- 📦 **Database Integration**: MySQL or H2 Database.  
+- 📦 **Database Integration**: MySQL.  
 - 📑 **RESTful APIs**: JSON-based communication.  
  
 ---
@@ -19,7 +19,7 @@
 - **Java 19**  
 - **Spring Boot 3.x**  
 - **Spring Data JPA**   
-- **MySQL / H2 Database**  
+- **MySQL**  
 - **Maven**  
 
 ---
@@ -51,7 +51,7 @@
 
 | Platform | Details                                |
 |----------|----------------------------------------|
-| GitHub   | [SHIWANTHAofficial](https://github.com/@SHIWANTHAofficial) |
+| GitHub   | [[SHIWANTHAofficial](https://github.com/SHIWANTHAofficial)] |
 
 ---
 
